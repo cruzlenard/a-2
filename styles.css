@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    color: #8ac4d0;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 60px;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 0;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.top {
+    background-color: #3C415C;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle{
+    background-color:#3C415C;
+    height: 200px;
+    border-bottom: solid;
+    border-top: dotted;
+}
+
+.foot{
+    background-color: #3C415C;
+    height: 100px;
+}
+.ss{
+    width:50%;
+    height: 50%;
+
+}
+.s2{
+    width: 20%;
+}
+
+.top-s2{
+    position: absolute;
+    right: 300px;
+    top: 200px;
+}
+
+.bottom-s2{
+    position: absolute;
+    bottom: 0px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+.s3 {
+    width: 30%;
+    }
+    .s4 {
+        width: 10;
+    }
+    .center-s3{
+        width: 150px;
+        height: 150px;
+        object-fit: auto;
+      position: relative;
+      left: 650px;
+bottom: 150px;
+
+    }
+    .right-s4{
+        width: 150px;
+        height: 150px;
+        object-fit: auto;
+      position: relative;
+left: 300px;
+bottom: 150px;
+    }
